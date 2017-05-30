@@ -1,0 +1,20 @@
+.intro {
+    width: 55%;
+    margin-left: 10%;
+    margin-top: 15%;
+    font-size: 70px;
+    color: #f0f0f0;
+    height: 287px;
+    background-color: rgba(83, 197, 185,0.3);
+    border-radius: 5px;
+}
+.about {
+    width: 45%;
+    float: right;
+    margin-right: 19%;
+    color: #fcfcfc;
+    font-size: 29px;
+    display: inline-block;
+    margin-top: -150px;
+    position: relative;
+}
